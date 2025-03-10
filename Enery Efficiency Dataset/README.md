@@ -50,8 +50,8 @@ Feature importance was analyzed for both models, and **Relative Compactness** em
 
 ---
 
-### 📌 Author: [Your Name]
-📫 Contact: [Your Email or LinkedIn]
+### 📌 Author: Dilrabo Khidirova
+📫 Contact: https://www.linkedin.com/in/dilrabo-khidirova-3144b8244/
 🌟 Feel free to ⭐ this repository if you found it useful!
 
 ---
