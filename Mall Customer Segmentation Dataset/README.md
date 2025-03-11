@@ -22,21 +22,7 @@ The dataset contains **200 observations** with the following features:
 - `Annual Income (k$)` - Income in thousands of dollars
 - `Spending Score (1-100)` - Score assigned by the mall based on customer behavior
 
----
 
-
-Then, clone this repository and navigate to the project folder:
-```bash
-git clone https://github.com/yourusername/Mall-Customer-Segmentation.git
-cd Mall-Customer-Segmentation
-```
-
-Run the Jupyter Notebook or Python script:
-```bash
-jupyter notebook Clustering_Analysis.ipynb
-```
-
----
 
 ## 📊 Exploratory Data Analysis (EDA)
 We performed an in-depth **EDA** to visualize relationships between variables using:
