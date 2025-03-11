@@ -101,6 +101,8 @@ davies_bouldin_score(df_scaled, df['KMeans_Cluster'])
 - PCA improved visualization and reduced dimensionality.
 - DBSCAN struggled due to lack of clear density-based clusters.
 - This segmentation can help businesses tailor marketing strategies for different customer groups.
+
+https://www.kaggle.com/code/dilrabonu/mall-customer-segmentation-1
 ![image](https://github.com/user-attachments/assets/f1127c5a-241e-49fb-8ae0-ad50c8cb1278)
 
 
