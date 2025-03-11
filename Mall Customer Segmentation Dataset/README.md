@@ -24,12 +24,6 @@ The dataset contains **200 observations** with the following features:
 
 ---
 
-## 🚀 Installation
-To run this project locally, install the necessary libraries:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn plotly
-```
 
 Then, clone this repository and navigate to the project folder:
 ```bash
