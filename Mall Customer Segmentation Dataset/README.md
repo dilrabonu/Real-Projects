@@ -101,21 +101,9 @@ davies_bouldin_score(df_scaled, df['KMeans_Cluster'])
 - PCA improved visualization and reduced dimensionality.
 - DBSCAN struggled due to lack of clear density-based clusters.
 - This segmentation can help businesses tailor marketing strategies for different customer groups.
+![image](https://github.com/user-attachments/assets/f1127c5a-241e-49fb-8ae0-ad50c8cb1278)
 
----
 
-## 📚 Future Work
-- Optimize hyperparameters for DBSCAN.
-- Explore **Gaussian Mixture Models (GMM)** for soft clustering.
-- Apply **Deep Learning** for customer segmentation.
 
----
-
-## 📝 Author
-- **Your Name**
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile/)
-- Kaggle: [Your Kaggle Profile](https://www.kaggle.com/yourprofile)
-
-🔗 **Feel free to fork, contribute, or open an issue!** 🚀
 
 
