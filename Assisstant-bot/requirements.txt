@@ -1,0 +1,14 @@
+langchain
+langchain-community
+openai
+python-dotenv
+PyPDF2
+requests
+pymupdf  # For better PDF parsing
+transformers  # If using Hugging Face models
+sentence-transformers  # For alternative embedding models
+chromadb 
+faiss-cpu==1.7.4
+streamlit==1.30.0
+openai==1.10.0
+langchain-openai==0.0.5
