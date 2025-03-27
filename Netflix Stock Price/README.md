@@ -92,7 +92,6 @@ This project performs professional-level data analysis and machine learning on N
 - Create a Streamlit or Flask web app for interactive forecasting
 
 ---
-
-## 📁 Project Structure
+(https://www.kaggle.com/code/dilrabonu/netflix)
 
 
