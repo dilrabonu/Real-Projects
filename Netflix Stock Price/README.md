@@ -94,6 +94,6 @@ This project performs professional-level data analysis and machine learning on N
 ---
 
 
-https://www.kaggle.com/code/dilrabonu/netflix
+
 
 
