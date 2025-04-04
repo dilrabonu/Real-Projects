@@ -8,7 +8,7 @@ Original Photo of Michael Jackson
 
 AI-Generated Album Cover – Michael Jackson (Thriller Inspired)
 
-💼 AI-Generated Cover
+💼 AI-Generated 
 ![image](https://github.com/user-attachments/assets/bfeb8383-c4a5-4ba0-9ca3-426d29619c32)
 
 
