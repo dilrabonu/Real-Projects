@@ -1,0 +1,86 @@
+{
+  "query": {
+    "match_phrase": {
+      "description": {
+        "query": "timeless classic",
+        "slop": 5
+      }
+    }
+  }
+}
+
+
+{
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "multi_match": {
+            "query": "romance",
+            "fields": ["title", "description"]
+          }
+        },
+        {
+          "range": {
+            "rating": {
+              "gt": 3.5
+            }
+          }
+        }
+      ],
+      "should": [
+        {
+          "term": {
+            "genres": "Drama"
+          }
+        }
+      ]
+    }
+  }
+}
+
+
+
+{
+  "query": {
+    "nested": {
+      "path": "tags",
+      "query": {
+        "bool": {
+          "must": [
+            { "term": { "tags.tag": "classic" }},
+            { "range": { "tags.timestamp_": { "gt": "2007-01-01" }}}
+          ]
+        }
+      }
+    }
+  }
+}
+
+
+{
+  "size": 0,
+  "aggs": {
+    "rating_stats": {
+      "stats": {
+        "field": "rating"
+      }
+    }
+  }
+}
+
+
+{
+  "size": 0,
+  "aggs": {
+    "genres_count": {
+      "terms": {
+        "field": "genres",
+        "size": 10,
+        "order": {
+          "_count": "desc"
+        }
+      }
+    }
+  }
+}
