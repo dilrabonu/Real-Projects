@@ -101,6 +101,8 @@ _All included in the repo `/plots/` folder_
 
 
 ---
+![image](https://github.com/user-attachments/assets/a7bec883-47c6-4633-8586-824dfa1618be)
+
 
 ## 👩‍💻 Author
 
