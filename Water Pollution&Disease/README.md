@@ -113,6 +113,3 @@ Machine Learning Engineer | AI for Good Advocate | Data Science Portfolio Builde
 
 ---
 
-## 📌 Tags
-
-`#DataScience` `#MachineLearning` `#PublicHealth` `#RandomForest` `#BinaryClassification` `#AIforGood` `#WomenInTech` `#Kaggle` `#Streamlit`
