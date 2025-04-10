@@ -73,5 +73,10 @@ The dataset used is the famous [Iris Dataset](https://archive.ics.uci.edu/ml/dat
 git clone https://github.com/dilrabonu/Real-Projects/tree/main/Iris%20dataset
 cd iris-from-scratch
 
+🙋‍♀️ Author
+Dilrabo Khidirova
+Aspiring Machine Learning Engineer | Generative AI Explorer | Women in Tech Advocate
+📍 Currently on a 30-day Python Mastery Marathon
+🔗 LinkedIn | 📬 GitHub
 
 https://www.kaggle.com/code/dilrabonu/iris-dataset
