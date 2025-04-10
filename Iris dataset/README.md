@@ -70,7 +70,7 @@ The dataset used is the famous [Iris Dataset](https://archive.ics.uci.edu/ml/dat
 
 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/iris-from-scratch.git
+git clone https://github.com/dilrabonu/Real-Projects/tree/main/Iris%20dataset
 cd iris-from-scratch
 
 
