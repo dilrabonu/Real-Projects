@@ -50,4 +50,4 @@ The dataset contains 250 records and 11 columns, including:
 - Simple models, when correctly applied, can deliver impressive results
 
 ---
-
+https://www.kaggle.com/code/dilrabonu/amazon-sales-2025
