@@ -1,0 +1,331 @@
+age,gender,hx_radiothreapy,adenopathy,pathology,focality,risk,t,n,m,stage,response,recurred,age_group
+27,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Indeterminate,0,Adult
+34,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+30,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+62,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+62,F,No,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+52,M,No,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Indeterminate,0,Senior
+41,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+46,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+51,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+40,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+75,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+59,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+49,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+50,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+76,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+42,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Indeterminate,0,Adult
+44,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Indeterminate,0,Adult
+43,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+52,F,No,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Indeterminate,0,Senior
+44,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+36,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+70,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+60,F,No,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+33,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+43,M,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+26,M,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+37,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+55,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+52,M,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Senior
+31,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+43,M,No,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+45,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+20,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+38,F,No,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,0,Adult
+31,F,No,No,Micropapillary,Uni-Focal,Intermediate,T1a,N0,M0,I,Excellent,0,Adult
+31,F,No,Right,Papillary,Multi-Focal,Intermediate,T1a,N1b,M0,I,Excellent,0,Adult
+26,F,No,Extensive,Papillary,Uni-Focal,Intermediate,T1a,N1b,M0,I,Structural Incomplete,1,Adult
+29,F,No,No,Follicular,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+43,F,No,No,Micropapillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+30,F,No,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+25,F,No,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+27,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+25,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+21,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Indeterminate,0,Adult
+43,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+23,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+43,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Indeterminate,0,Adult
+24,M,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+35,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+54,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Senior
+54,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Indeterminate,0,Senior
+22,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+38,F,No,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+51,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Senior
+22,M,No,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+40,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+69,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Senior
+31,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+29,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+30,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+28,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+50,F,No,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+17,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+40,F,No,No,Papillary,Uni-Focal,Intermediate,T1b,N0,M0,I,Excellent,0,Adult
+33,F,No,No,Papillary,Uni-Focal,Intermediate,T1b,N1b,M0,I,Indeterminate,0,Adult
+25,F,Yes,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Adult
+73,F,No,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,0,Senior
+36,F,No,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Indeterminate,1,Adult
+35,F,No,Right,Papillary,Multi-Focal,Intermediate,T1b,N1b,M0,I,Structural Incomplete,1,Adult
+31,M,No,Right,Papillary,Multi-Focal,Intermediate,T1b,N1b,M0,I,Structural Incomplete,1,Adult
+18,F,No,Right,Papillary,Uni-Focal,Intermediate,T1b,N1b,M0,I,Structural Incomplete,1,Adult
+62,F,No,No,Follicular,Multi-Focal,Intermediate,T1b,N0,M0,I,Structural Incomplete,1,Senior
+62,F,No,No,Hurthel cell,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+39,F,No,No,Hurthel cell,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+37,F,No,No,Hurthel cell,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+26,F,No,No,Hurthel cell,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+31,F,No,No,Hurthel cell,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+24,F,No,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+57,F,No,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+28,F,No,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+44,M,No,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+42,F,No,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+27,F,No,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+51,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+33,F,No,Right,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+42,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+26,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+24,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+60,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+60,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,0,Senior
+31,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+66,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+44,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+32,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+26,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+37,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+33,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+23,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+47,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+28,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+31,F,No,Right,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+27,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+56,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,0,Senior
+63,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+24,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,0,Adult
+30,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+28,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+20,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+21,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+42,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,0,Adult
+41,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+49,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+29,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+25,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+41,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+50,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+19,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+35,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+63,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,0,Senior
+36,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+31,M,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+24,M,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+22,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+28,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+29,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+40,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+55,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+40,M,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+38,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+30,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+50,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+34,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+45,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+52,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+67,M,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+72,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Senior
+45,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+45,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,0,Adult
+67,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+56,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+35,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+23,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+44,F,No,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+23,F,No,Left,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Adult
+61,M,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+68,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+57,M,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,0,Senior
+27,F,No,No,Papillary,Multi-Focal,Low,T2,N1b,M0,I,Excellent,0,Adult
+25,F,No,Right,Papillary,Multi-Focal,Low,T2,N1b,M0,I,Excellent,0,Adult
+20,M,No,No,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Excellent,0,Adult
+33,M,No,No,Papillary,Uni-Focal,Low,T2,N1b,M0,I,Excellent,0,Adult
+36,F,No,Right,Papillary,Uni-Focal,Low,T2,N1b,M0,I,Excellent,0,Adult
+36,F,No,Right,Papillary,Uni-Focal,Low,T2,N1b,M0,I,Indeterminate,0,Adult
+40,F,No,Left,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,0,Adult
+17,F,No,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,0,Adult
+24,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Excellent,0,Adult
+38,F,No,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Excellent,0,Adult
+28,F,No,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Excellent,0,Adult
+36,F,No,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,0,Adult
+50,F,No,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,0,Adult
+51,M,No,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,0,Senior
+55,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,II,Indeterminate,0,Senior
+31,F,No,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Excellent,0,Adult
+33,F,No,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Indeterminate,0,Adult
+28,F,No,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Indeterminate,0,Adult
+48,M,No,Left,Papillary,Uni-Focal,Intermediate,T2,N1a,M0,I,Indeterminate,0,Adult
+40,F,No,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Excellent,0,Adult
+29,F,No,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Indeterminate,0,Adult
+20,F,No,No,Papillary,Uni-Focal,Intermediate,T2,N1a,M0,I,Excellent,0,Adult
+35,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,0,Adult
+56,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,1,Senior
+20,M,No,Right,Papillary,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,1,Adult
+62,F,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,1,Senior
+17,F,No,No,Papillary,Uni-Focal,High,T2,N0,M0,I,Structural Incomplete,1,Adult
+21,F,No,Right,Papillary,Uni-Focal,Low,T2,N1b,M0,I,Structural Incomplete,1,Adult
+20,M,No,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,1,Adult
+40,M,No,Bilateral,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,1,Adult
+38,M,No,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,1,Adult
+21,F,No,Left,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,1,Adult
+31,F,No,Left,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,1,Adult
+34,F,No,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,1,Adult
+60,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,1,Senior
+60,F,No,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,II,Structural Incomplete,1,Senior
+62,F,No,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,II,Structural Incomplete,1,Senior
+36,M,No,No,Papillary,Uni-Focal,Intermediate,T2,N1a,M0,I,Indeterminate,1,Adult
+29,F,No,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,1,Adult
+33,M,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,1,Adult
+75,M,Yes,No,Follicular,Multi-Focal,High,T2,N0,M1,IVB,Structural Incomplete,1,Senior
+62,M,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,1,Senior
+56,M,No,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,1,Senior
+52,F,No,No,Follicular,Uni-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,0,Senior
+35,F,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+34,F,No,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Indeterminate,0,Adult
+32,F,No,No,Hurthel cell,Multi-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+27,F,No,No,Hurthel cell,Multi-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+52,F,No,Bilateral,Hurthel cell,Multi-Focal,Low,T3a,N0,M0,I,Structural Incomplete,0,Senior
+46,F,No,No,Hurthel cell,Multi-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+30,F,No,Right,Follicular,Uni-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+32,F,No,No,Follicular,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+25,F,No,No,Follicular,Multi-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+38,F,No,No,Follicular,Multi-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,0,Adult
+31,M,No,No,Follicular,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+37,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+21,M,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,0,Adult
+34,F,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+30,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,0,Adult
+48,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+31,M,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+52,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Senior
+38,F,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+41,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+41,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,0,Adult
+70,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Senior
+19,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+41,M,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+32,F,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+35,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+39,F,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+45,F,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,0,Adult
+46,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+45,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+28,M,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+31,M,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Adult
+81,F,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,II,Excellent,0,Senior
+41,M,No,No,Hurthel cell,Multi-Focal,Intermediate,T3a,N0,M0,I,Excellent,0,Adult
+56,M,No,No,Hurthel cell,Multi-Focal,Intermediate,T3a,N0,M0,I,Indeterminate,0,Senior
+47,F,No,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,I,Indeterminate,0,Adult
+37,F,No,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,I,Excellent,0,Adult
+32,F,No,No,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,I,Biochemical Incomplete,0,Adult
+53,F,No,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,I,Indeterminate,0,Senior
+30,F,No,No,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,I,Excellent,0,Adult
+34,F,No,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,I,Excellent,0,Adult
+62,F,No,No,Hurthel cell,Multi-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,0,Senior
+58,F,No,No,Follicular,Multi-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,0,Senior
+55,M,No,No,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,0,Senior
+21,F,No,Right,Papillary,Multi-Focal,Low,T3a,N1b,M0,I,Excellent,0,Adult
+27,F,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Excellent,0,Adult
+46,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Indeterminate,0,Adult
+44,F,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Excellent,0,Adult
+29,F,No,Left,Papillary,Uni-Focal,Low,T3a,N1a,M0,I,Excellent,0,Adult
+26,F,No,Right,Papillary,Uni-Focal,Intermediate,T3a,N1a,M0,I,Indeterminate,0,Adult
+42,M,No,No,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,I,Indeterminate,0,Adult
+56,F,No,No,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,II,Excellent,0,Senior
+51,F,No,Right,Hurthel cell,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,0,Senior
+61,F,No,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,II,Excellent,0,Senior
+42,M,No,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Structural Incomplete,1,Adult
+34,F,No,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Structural Incomplete,1,Adult
+67,F,No,No,Hurthel cell,Uni-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,1,Senior
+63,F,No,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,1,Senior
+67,M,No,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,II,Biochemical Incomplete,1,Senior
+73,F,No,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,II,Structural Incomplete,1,Senior
+26,F,No,Left,Papillary,Uni-Focal,Intermediate,T3a,N1b,M1,I,Structural Incomplete,1,Adult
+30,F,No,Right,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+36,F,No,Left,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Indeterminate,1,Adult
+31,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+40,F,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+49,F,No,Right,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+38,M,No,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+27,F,No,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+27,M,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+33,F,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Biochemical Incomplete,1,Adult
+32,F,No,Left,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+29,F,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+37,M,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+48,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+30,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+33,M,No,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+80,F,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Structural Incomplete,1,Senior
+62,F,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Structural Incomplete,1,Senior
+63,M,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Structural Incomplete,1,Senior
+60,M,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Structural Incomplete,1,Senior
+79,M,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Indeterminate,1,Senior
+65,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Biochemical Incomplete,1,Senior
+35,F,No,Right,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,I,Biochemical Incomplete,1,Adult
+58,F,No,No,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,II,Indeterminate,1,Senior
+34,F,No,No,Papillary,Uni-Focal,High,T3a,N1a,M0,I,Biochemical Incomplete,1,Adult
+56,F,No,No,Follicular,Multi-Focal,Low,T3a,N0,M0,I,Structural Incomplete,1,Senior
+52,M,No,Right,Follicular,Multi-Focal,Intermediate,T3a,N0,M0,I,Biochemical Incomplete,1,Senior
+51,F,No,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,I,Structural Incomplete,1,Senior
+31,F,No,No,Follicular,Uni-Focal,Intermediate,T3a,N1a,M0,I,Biochemical Incomplete,1,Adult
+44,M,No,Right,Papillary,Multi-Focal,High,T3a,N1b,M1,II,Structural Incomplete,1,Adult
+15,F,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+29,M,No,Extensive,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+53,M,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Senior
+45,F,No,Left,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,1,Adult
+38,F,No,Posterior,Papillary,Multi-Focal,High,T3a,N1b,M1,II,Structural Incomplete,1,Adult
+48,F,No,Left,Hurthel cell,Multi-Focal,Intermediate,T3b,N1a,M0,I,Structural Incomplete,0,Adult
+42,F,No,No,Papillary,Multi-Focal,Intermediate,T3b,N0,M0,I,Indeterminate,0,Adult
+23,F,No,Right,Papillary,Uni-Focal,Intermediate,T3b,N1a,M0,I,Structural Incomplete,1,Adult
+22,F,No,Right,Papillary,Multi-Focal,Intermediate,T3b,N1a,M0,I,Structural Incomplete,1,Adult
+44,F,No,Left,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,I,Structural Incomplete,1,Adult
+31,F,No,Left,Papillary,Uni-Focal,Intermediate,T3b,N1b,M0,I,Excellent,1,Adult
+25,F,No,Left,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,I,Structural Incomplete,1,Adult
+32,M,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,I,Structural Incomplete,1,Adult
+82,M,No,Left,Papillary,Uni-Focal,Intermediate,T3b,N1b,M0,II,Structural Incomplete,1,Senior
+58,F,No,Extensive,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,II,Structural Incomplete,1,Senior
+68,M,No,Bilateral,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,III,Structural Incomplete,1,Senior
+37,F,No,No,Papillary,Multi-Focal,Intermediate,T3b,N1a,M1,II,Structural Incomplete,1,Adult
+59,M,No,No,Hurthel cell,Multi-Focal,Intermediate,T3b,N0,M0,I,Structural Incomplete,1,Senior
+21,F,No,No,Papillary,Multi-Focal,Intermediate,T3b,N0,M0,I,Structural Incomplete,1,Adult
+73,F,No,Right,Papillary,Multi-Focal,High,T3b,N1a,M1,IVB,Structural Incomplete,1,Senior
+35,M,No,Left,Papillary,Multi-Focal,High,T3b,N1b,M1,II,Structural Incomplete,1,Adult
+32,F,No,No,Papillary,Multi-Focal,Intermediate,T4a,N0,M0,I,Excellent,0,Adult
+54,M,No,Right,Hurthel cell,Multi-Focal,Intermediate,T4a,N1b,M0,II,Structural Incomplete,1,Senior
+26,F,No,Bilateral,Hurthel cell,Multi-Focal,High,T4a,N1b,M0,I,Structural Incomplete,1,Adult
+53,F,No,Right,Papillary,Uni-Focal,High,T4a,N1b,M0,I,Structural Incomplete,1,Senior
+35,F,No,Extensive,Papillary,Multi-Focal,High,T4a,N1b,M0,I,Structural Incomplete,1,Adult
+49,M,No,Bilateral,Papillary,Multi-Focal,High,T4a,N1b,M0,I,Structural Incomplete,1,Adult
+34,F,No,Right,Papillary,Uni-Focal,High,T4a,N1b,M0,I,Structural Incomplete,1,Adult
+80,F,No,Right,Papillary,Uni-Focal,High,T4a,N1b,M0,III,Structural Incomplete,1,Senior
+67,F,No,Right,Papillary,Multi-Focal,High,T4a,N1b,M0,III,Structural Incomplete,1,Senior
+68,F,No,Bilateral,Papillary,Multi-Focal,High,T4a,N1b,M1,IVB,Structural Incomplete,1,Senior
+71,F,No,No,Follicular,Multi-Focal,High,T4a,N0,M1,IVB,Structural Incomplete,1,Senior
+64,F,No,No,Follicular,Multi-Focal,High,T4a,N0,M1,IVB,Structural Incomplete,1,Senior
+80,M,No,No,Hurthel cell,Multi-Focal,Intermediate,T4a,N0,M0,II,Structural Incomplete,1,Senior
+56,F,No,Posterior,Papillary,Multi-Focal,High,T4a,N1b,M0,II,Structural Incomplete,1,Senior
+71,M,No,Bilateral,Papillary,Multi-Focal,High,T4a,N1b,M0,III,Structural Incomplete,1,Senior
+78,M,Yes,No,Follicular,Multi-Focal,High,T4a,N0,M1,IVB,Structural Incomplete,1,Senior
+51,F,No,No,Papillary,Multi-Focal,High,T4a,N1a,M1,II,Structural Incomplete,1,Senior
+67,F,No,No,Papillary,Multi-Focal,High,T4a,N0,M0,IVA,Biochemical Incomplete,1,Senior
+31,M,Yes,Extensive,Papillary,Multi-Focal,High,T4a,N1b,M1,II,Structural Incomplete,1,Adult
+62,M,No,Left,Papillary,Multi-Focal,High,T4a,N1b,M1,IVB,Structural Incomplete,1,Senior
+59,F,No,Bilateral,Papillary,Multi-Focal,High,T4b,N1b,M0,IVB,Structural Incomplete,1,Senior
+40,M,No,Bilateral,Papillary,Multi-Focal,High,T4b,N1b,M0,I,Structural Incomplete,1,Adult
+46,M,No,Bilateral,Follicular,Uni-Focal,High,T4b,N1b,M1,II,Structural Incomplete,1,Adult
+72,M,Yes,Right,Papillary,Uni-Focal,High,T4b,N1b,M1,IVB,Biochemical Incomplete,1,Senior
+81,M,Yes,Extensive,Papillary,Multi-Focal,High,T4b,N1b,M1,IVB,Structural Incomplete,1,Senior
+72,M,No,Bilateral,Papillary,Multi-Focal,High,T4b,N1b,M1,IVB,Structural Incomplete,1,Senior
+61,M,Yes,Extensive,Hurthel cell,Multi-Focal,High,T4b,N1b,M0,IVA,Structural Incomplete,1,Senior
+67,M,No,Bilateral,Papillary,Multi-Focal,High,T4b,N1b,M0,IVA,Structural Incomplete,1,Senior
