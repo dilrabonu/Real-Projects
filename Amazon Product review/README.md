@@ -13,7 +13,7 @@ The goal is to classify customer reviews into three categories:
 This project is part of my 30-Day Python Mastery Marathon — Day 10 (NLP & Generators).
 
 ---
-
+## 🧠 Objectives
 
 
 - Clean and preprocess raw textual data
