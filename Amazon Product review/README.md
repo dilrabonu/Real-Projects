@@ -14,7 +14,7 @@ This project is part of my 30-Day Python Mastery Marathon — Day 10 (NLP & Gene
 
 ---
 
-## 🧠 Objectives
+
 
 - Clean and preprocess raw textual data
 - Engineer sentiment labels based on review scores
