@@ -63,8 +63,18 @@ This project is part of my Master’s thesis focused on combining satellite data
 
 ---
 
-## 📎 Folder Structure
+Author
+Dilrabo Khidirova
+Master's Student in Software Engineering | Focus: AI & Climate Tech
 
+
+⭐️ Acknowledgements
+NASA Earthdata Fire Information for Resource Management System (FIRMS)
+
+Scikit-learn, SHAP, Matplotlib, and Seaborn contributors
+
+🤝 Collaborations & PhD Interest
+If you're a professor or research group working on AI for sustainability, climate, or geospatial analytics, I’d be excited to collaborate or contribute to your lab as a PhD candidate. Let’s connect!
 
 
 https://www.kaggle.com/code/dilrabonu/australian-bush-fire-satellite-data-nasa
