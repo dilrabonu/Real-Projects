@@ -6,7 +6,7 @@ This project focuses on building a **multi-class sentiment classification model*
 
 ## 📁 Dataset
 
-- Source: Kaggle Dataset [Twitter Entity Sentiment Analysis]
+- Source: Kaggle Dataset 
 - Total Rows: **74,681**
 - Format: CSV
 - Columns:
